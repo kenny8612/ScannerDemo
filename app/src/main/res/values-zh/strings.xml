@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">扫描例子</string>
+    <string name="scan">扫描</string>
+    <string name="clear">清除</string>
+    <string name="continue_scan">连续扫描</string>
+    <string name="mode_callback">SDK 回调方式</string>
+    <string name="mode_broadcast">SDK 广播方式</string>
+</resources>

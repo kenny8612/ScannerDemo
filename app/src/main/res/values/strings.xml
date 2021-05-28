@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScannerDemo</string>
+    <string name="scan">Scan</string>
+    <string name="clear">Clear</string>
+    <string name="continue_scan">Continue Scan</string>
+    <string name="mode_callback">SDK Callback</string>
+    <string name="mode_broadcast">SDK BroadCast</string>
+</resources>
