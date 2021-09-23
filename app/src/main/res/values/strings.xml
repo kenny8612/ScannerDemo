@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScannerDemo</string>
+    <string name="scan_open">open</string>
+    <string name="scan_close">close</string>
+    <string name="startDecode">startDecode</string>
+    <string name="stopDecode">stopDecode</string>
+    <string name="startContinueDecode">startContinueDecode</string>
+    <string name="stopContinueDecode">stopContinueDecode</string>
+    <string name="clear">clearResult</string>
+    <string name="broadcast_output">Broadcast output:</string>
+    <string name="scanOutMode">Check broadcast output, otherwise output text box</string>
+    <string name="scanner_settings">Scanner Settings</string>
+</resources>

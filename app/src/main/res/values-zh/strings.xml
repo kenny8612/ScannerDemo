@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">扫描例子</string>
+    <string name="scan_open">打开扫描</string>
+    <string name="scan_close">关闭扫描</string>
+    <string name="startDecode">startDecode</string>
+    <string name="stopDecode">stopDecode</string>
+    <string name="startContinueDecode">打开连续扫描</string>
+    <string name="stopContinueDecode">关闭连续扫描</string>
+    <string name="clear">清除扫描结果</string>
+    <string name="broadcast_output">广播输出:</string>
+    <string name="scanOutMode">选中广播输出，否则输出文本框</string>
+    <string name="scanner_settings">扫描头设置</string>
+</resources>
